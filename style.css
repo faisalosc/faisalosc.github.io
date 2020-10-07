@@ -1,0 +1,26 @@
+body{
+}
+h1{
+  float: right;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+span{
+  color: tomato;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+li{
+  color: SlateBlue;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+a{
+  color: SlateBlue;
+}
+div.subheading{
+  float: right;
+  font-size: 18px;
+  color: grey;
+  font-family: sans-serif;
+}
