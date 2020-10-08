@@ -1,26 +1,61 @@
 body{
+  font-family: 'Saira Extra Condensed';
 }
-h1{
-  float: right;
-  font-size: 30px;
-  font-family: sans-serif;
+table, tr, td{
+  border: 1px solid gray;
+
 }
-span{
+td.judul{
+  text-align: center;
+  color: gray;
+}
+h1.nama1{
   color: tomato;
+  text-align: center;
+}
+td.lokasi{
+  color: gray;
+}
+a.email{
+  text-decoration: none;
+  color: tomato;
+  text-align: center;
+}
+td.menu{
+  color: gray;
+  text-align: center;
+}
+a.menu{
+  text-decoration: none;
+}
+td.social{
+
+}
+.fa {
+  padding: 20px;
   font-size: 30px;
-  font-family: sans-serif;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
 }
-li{
-  color: SlateBlue;
-  font-size: 18px;
-  font-family: sans-serif;
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
 }
-a{
-  color: SlateBlue;
+.fa-reddit {
+  background: #ff5700;
+  color: white;
 }
-div.subheading{
-  float: right;
-  font-size: 18px;
-  color: grey;
-  font-family: sans-serif;
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
 }
